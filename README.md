@@ -1,4 +1,3 @@
-fora-db-backend-mongodb
-=======================
-
-MongoDb Backend for the Fora Project
+fora-db-backend-mongo
+=====================
+MongoDb backend for the Fora Project
