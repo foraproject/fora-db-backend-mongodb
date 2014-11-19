@@ -1,7 +1,7 @@
 {
     "author": "Jeswin Kumar <jeswinpk@agilehead.com>",
-    "name": "fora-db",
-    "version": "0.9.21",
+    "name": "fora-db-backend-mongodb",
+    "version": "0.9.24",
     "description": "MongoDb backend for the Fora Project",
     "repository": {
         "type": "git",
